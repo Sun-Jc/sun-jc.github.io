@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nan Guan | AKAPENIC</title>
+    <link>/authors/nan-guan/</link>
+      <atom:link href="/authors/nan-guan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nan Guan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Nan Guan</title>
+      <link>/authors/nan-guan/</link>
+    </image>
+    
+    <item>
+      <title>Algorithms for Computing the WCRT bound of OpenMP Task Systems with Conditional Branches</title>
+      <link>/publication/journal-algo/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-algo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Response-Time Bounds for OpenMP Task Systems with Conditional Branches</title>
+      <link>/publication/conf-cond/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-cond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integer Programming Approach for Schedulability of Sporadic Real-Time Systems</title>
+      <link>/publication/journal-rts/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-rts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

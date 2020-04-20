@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AKAPENIC</title>
+    <link>/zh/</link>
+      <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>AKAPENIC</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>AKAPENIC</title>
+      <link>/zh/</link>
+    </image>
+    
+    <item>
+      <title>Games of Miners</title>
+      <link>/zh/publication/conf-miners/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/conf-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>矿工的博弈</title>
+      <link>/zh/publication/wechat-miners/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/wechat-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>负载分配方法和系统、计算机装置、节点装置及存储介质</title>
+      <link>/zh/publication/patent-miners/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/patent-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for Computing the WCRT bound of OpenMP Task Systems with Conditional Branches</title>
+      <link>/zh/publication/journal-algo/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-algo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>物品信息记录、流转、鉴别发起及服务方法、终端和系统</title>
+      <link>/zh/publication/patent-luxury/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/patent-luxury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于区块链和计算机视觉的奢侈品追踪鉴定系统</title>
+      <link>/zh/project/turingsense/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/zh/project/turingsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral Hazard in Games of Miners</title>
+      <link>/zh/publication/conf-moral/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/conf-moral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Response-Time Bounds for OpenMP Task Systems with Conditional Branches</title>
+      <link>/zh/publication/conf-cond/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/conf-cond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nebulas Technical Whitepaper</title>
+      <link>/zh/publication/white-nebulas/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/white-nebulas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrePre: Characterizing Student Performance via Large-scale WiFi Networks</title>
+      <link>/zh/publication/working-preper/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/working-preper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>即刻清华</title>
+      <link>/zh/project/tunow/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/zh/project/tunow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>这次美国大选给大家带来了什么共同“姿势”？</title>
+      <link>/zh/publication/wechat-collective/</link>
+      <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/wechat-collective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TUNet</title>
+      <link>/zh/project/tunet/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/zh/project/tunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EtherLend — 去中心化标会</title>
+      <link>/zh/project/etherlend/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/zh/project/etherlend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Algorithms for Collective Action</title>
+      <link>/zh/publication/working-collective/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/working-collective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>十指连心--心率测量应用</title>
+      <link>/zh/project/fingertip/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/zh/project/fingertip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integer Programming Approach for Schedulability of Sporadic Real-Time Systems</title>
+      <link>/zh/publication/journal-rts/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-rts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

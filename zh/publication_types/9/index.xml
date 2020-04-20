@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 | AKAPENIC</title>
+    <link>/zh/publication_types/9/</link>
+      <atom:link href="/zh/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    <description>9</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>9</title>
+      <link>/zh/publication_types/9/</link>
+    </image>
+    
+    <item>
+      <title>矿工的博弈</title>
+      <link>/zh/publication/wechat-miners/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/wechat-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>这次美国大选给大家带来了什么共同“姿势”？</title>
+      <link>/zh/publication/wechat-collective/</link>
+      <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/wechat-collective/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

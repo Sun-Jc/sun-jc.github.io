@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pingzhong Tang | AKAPENIC</title>
+    <link>/zh/authors/pingzhong-tang/</link>
+      <atom:link href="/zh/authors/pingzhong-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pingzhong Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Pingzhong Tang</title>
+      <link>/zh/authors/pingzhong-tang/</link>
+    </image>
+    
+    <item>
+      <title>Games of Miners</title>
+      <link>/zh/publication/conf-miners/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/conf-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>负载分配方法和系统、计算机装置、节点装置及存储介质</title>
+      <link>/zh/publication/patent-miners/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/patent-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>物品信息记录、流转、鉴别发起及服务方法、终端和系统</title>
+      <link>/zh/publication/patent-luxury/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/patent-luxury/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

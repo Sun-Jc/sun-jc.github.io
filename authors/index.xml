@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | AKAPENIC</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Jingchang Sun</title>
+      <link>/authors/jingchang-sun/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jingchang-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pingzhong Tang</title>
+      <link>/authors/pingzhong-tang/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pingzhong-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulong Zeng</title>
+      <link>/authors/yulong-zeng/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yulong-zeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingzhu Yang</title>
+      <link>/authors/qingzhu-yang/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/qingzhu-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi liu</title>
+      <link>/authors/xi-liu/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/xi-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yalun Xu</title>
+      <link>/authors/yalun-xu/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yalun-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feng Li</title>
+      <link>/authors/feng-li/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/feng-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinghao Sun</title>
+      <link>/authors/jinghao-sun/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jinghao-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nan Guan</title>
+      <link>/authors/nan-guan/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/nan-guan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi Zhang</title>
+      <link>/authors/xi-zhang/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/xi-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaoyao Chi</title>
+      <link>/authors/yaoyao-chi/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yaoyao-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiming Lu</title>
+      <link>/authors/yiming-lu/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yiming-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nebulas.io</title>
+      <link>/authors/nebulas.io/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/nebulas.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingxu Deng</title>
+      <link>/authors/qingxu-deng/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/qingxu-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Hi, my name is Jingchang. Now I am a graduate student at Institute for Interdisciplinary Information Science (IIIS), Tsinghua University.
+In 2016, I joined Network Science Group of IIIS, with Prof. Thomas Moscibroda as my adviser.
+In 2019, I joined Computational Economics Group of IIIS, with Prof, Pingzhong Tang.
+My research interests include blockchain, network science, and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short | AKAPENIC</title>
+    <link>/categories/short/</link>
+      <atom:link href="/categories/short/index.xml" rel="self" type="application/rss+xml" />
+    <description>Short</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Short</title>
+      <link>/categories/short/</link>
+    </image>
+    
+    <item>
+      <title>Moral Hazard in Games of Miners</title>
+      <link>/publication/conf-moral/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-moral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

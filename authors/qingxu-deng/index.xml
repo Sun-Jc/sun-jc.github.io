@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingxu Deng | AKAPENIC</title>
+    <link>/authors/qingxu-deng/</link>
+      <atom:link href="/authors/qingxu-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingxu Deng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Qingxu Deng</title>
+      <link>/authors/qingxu-deng/</link>
+    </image>
+    
+    <item>
+      <title>Integer Programming Approach for Schedulability of Sporadic Real-Time Systems</title>
+      <link>/publication/journal-rts/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-rts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

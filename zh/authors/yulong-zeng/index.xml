@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yulong Zeng | AKAPENIC</title>
+    <link>/zh/authors/yulong-zeng/</link>
+      <atom:link href="/zh/authors/yulong-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yulong Zeng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Yulong Zeng</title>
+      <link>/zh/authors/yulong-zeng/</link>
+    </image>
+    
+    <item>
+      <title>Games of Miners</title>
+      <link>/zh/publication/conf-miners/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/conf-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>负载分配方法和系统、计算机装置、节点装置及存储介质</title>
+      <link>/zh/publication/patent-miners/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/patent-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral Hazard in Games of Miners</title>
+      <link>/zh/publication/conf-moral/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/conf-moral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiming Lu | AKAPENIC</title>
+    <link>/authors/yiming-lu/</link>
+      <atom:link href="/authors/yiming-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiming Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Yiming Lu</title>
+      <link>/authors/yiming-lu/</link>
+    </image>
+    
+    <item>
+      <title>Item information recording, circulation, identification initiation and service method, terminal and system</title>
+      <link>/publication/patent-luxury/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/patent-luxury/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

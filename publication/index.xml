@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | AKAPENIC</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Games of Miners</title>
+      <link>/publication/conf-miners/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load distribution method and system, computer device, node device and storage medium</title>
+      <link>/publication/patent-miners/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/patent-miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for Computing the WCRT bound of OpenMP Task Systems with Conditional Branches</title>
+      <link>/publication/journal-algo/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-algo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Item information recording, circulation, identification initiation and service method, terminal and system</title>
+      <link>/publication/patent-luxury/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/patent-luxury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral Hazard in Games of Miners</title>
+      <link>/publication/conf-moral/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-moral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Response-Time Bounds for OpenMP Task Systems with Conditional Branches</title>
+      <link>/publication/conf-cond/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conf-cond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nebulas Technical White Paper</title>
+      <link>/publication/white-nebulas/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/white-nebulas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrePre: Characterizing Student Performance via Large-scale WiFi Networks</title>
+      <link>/publication/working-preper/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/working-preper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Algorithms for Collective Action</title>
+      <link>/publication/working-collective/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/working-collective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integer Programming Approach for Schedulability of Sporadic Real-Time Systems</title>
+      <link>/publication/journal-rts/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-rts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

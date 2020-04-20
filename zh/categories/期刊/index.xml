@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>期刊 | AKAPENIC</title>
+    <link>/zh/categories/%E6%9C%9F%E5%88%8A/</link>
+      <atom:link href="/zh/categories/%E6%9C%9F%E5%88%8A/index.xml" rel="self" type="application/rss+xml" />
+    <description>期刊</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>期刊</title>
+      <link>/zh/categories/%E6%9C%9F%E5%88%8A/</link>
+    </image>
+    
+    <item>
+      <title>Algorithms for Computing the WCRT bound of OpenMP Task Systems with Conditional Branches</title>
+      <link>/zh/publication/journal-algo/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-algo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integer Programming Approach for Schedulability of Sporadic Real-Time Systems</title>
+      <link>/zh/publication/journal-rts/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-rts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

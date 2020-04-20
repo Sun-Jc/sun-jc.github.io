@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nebulas.io | AKAPENIC</title>
+    <link>/authors/nebulas.io/</link>
+      <atom:link href="/authors/nebulas.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nebulas.io</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4f9fd4f123bfdd5e5453fe5eede9c604_37352_512x512_fill_lanczos_center_2.png</url>
+      <title>Nebulas.io</title>
+      <link>/authors/nebulas.io/</link>
+    </image>
+    
+    <item>
+      <title>Nebulas Technical White Paper</title>
+      <link>/publication/white-nebulas/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/white-nebulas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
