@@ -1,0 +1,126 @@
+baseURL = 'https://sun-jc.github.io/'
+languageCode = 'en-us'
+title = 'Jingchang Sun'
+theme = 'typo'
+
+# [taxonomies]
+# tag = 'tags'
+
+
+[params]
+# Meta description
+description = "Homepage"
+
+faviconPath = 'favicon'
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'base16-ocean'
+hideHeader = false
+
+math = true
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hello!'
+homeIntroContent = """
+I am Jingchang, a Web3 engineer at Microsoft.
+
+I have been deeply involved in blockchain technologies since 2016.
+Now, I am working on cutting-edge products including zkVM, zkRollUp, and <a href="https://www.microsoft.com/en-us/industry/blog/financial-services/2024/06/20/central-bank-digital-currencies-accelerating-a-digital-economy-with-advanced-technology/" target="_blank">central bank digital currency</a> systems to shape the future of decentralized finance and digital asset infrastructure.
+
+Before joining Microsoft, I was at the Computational Economics Group and the Network Science Group of Institute for Interdisciplinary Information Science (<a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">IIIS</a>), Tsinghua University, where I explored the intersection of algorithmic game theory, network science, distributed systems, and blockchain. 
+
+Here is my <a href="./CV.pdf" target="_blank"> CV</a>.
+
+<h2> Contact Me </h2>
+
+Reach out via email: <u> jingchangsun [at] gmail [dot] com </u>
+
+Book my time via <a href="https://calendly.com/jcsun/30min-online-meeting" target="_blank"> Calendly</a>.
+
+[//]: < - jingchangsun [at] microsoft [dot] com >
+[//]: < - sunjc16 [at] tsinghua [dot] org [dot] cn >
+
+<!--
+Map
+<p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3057.3228479612653!2d116.30884507521827!3d39.9788899715134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f0514fa7716edf%3A0x6d19ba485e69aeba!2sMicrosoft!5e0!3m2!1sen!2sus!4v1741954924292!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</p>
+-->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G8T6BDPET1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-G8T6BDPET1');
+</script>
+
+"""
+
+
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# social icons: themes/typo/layouts/partials/svg.html
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/sunjc/"
+
+[[params.social]]
+name = "farcaster"
+url = "https://warpcast.com/jcsun"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/Sun-Jc"
+
+# [[params.social]]
+# name = "discord"
+# url = "https://discordapp.com/users/916723707903369226"
+
+
+# Main menu pages
+# [[params.menu]]
+# name = "home"
+# url = "/"
+
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
+# newTab = true
+
+# [[params.menu]]
+# name = "about"
+# url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+# repo = "user/repo"
+# repoid = "repoId"
+# category = "General"
+# categoryid = "categoryId"
+# mapping = "pathname"
+# theme = "preferred_color_scheme"
+
+[markup.goldmark.renderer]
+unsafe = true

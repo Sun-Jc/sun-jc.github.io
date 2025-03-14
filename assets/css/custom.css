@@ -1,0 +1,9 @@
+::selection {
+  background: var(--content-secondary);
+  color: var(--background);
+}
+
+.intro a:hover {
+  background-color: var(--content-secondary);
+  color: var(--background);
+}
